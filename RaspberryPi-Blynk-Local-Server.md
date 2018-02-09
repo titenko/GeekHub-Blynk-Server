@@ -1,5 +1,7 @@
 **Быстрая настройка локального сервера на Raspberry Pi**
+
 Подключить Raspberry Pi через ssh;
+
 Установить java 8:
 
 sudo apt-get install oracle-java8-jdk
