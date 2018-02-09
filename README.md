@@ -3,11 +3,11 @@
 Платформа с приложением для iOS и Android для управления Arduino, ESP8266, Raspberry Pi и других плат микроконтроллеров через Интернет.
 
 # Что такое Blynk?
-Blynk - это платформа с приложениями для iOS и Android для управления Arduino, ESP8266, Raspberry Pi и подобных через Интернет.
+Blynk - это платформа с приложениями iOS и Android для управления Arduino, ESP8266, Raspberry Pi и подобных плат микроконтроллеров через Интернет.
 Вы можете легко создавать графические интерфейсы для всех своих проектов, просто перетаскивая виджеты. Если вам нужна дополнительная информация, перейдите по следующим ссылкам:
-* [Blynk site](https://www.blynk.cc)
-* [Blynk docs](http://docs.blynk.cc)
-* [Blynk community](https://community.blynk.cc)
+* [Blynk сайт](https://www.blynk.cc)
+* [Blynk документация](http://docs.blynk.cc)
+* [Blynk сообщество](https://community.blynk.cc)
 * [Blynk Examples generator](https://examples.blynk.cc)
 * [Facebook](http://www.fb.com/blynkapp)
 * [Twitter](http://twitter.com/blynk_app)
@@ -47,7 +47,7 @@ Blynk - это платформа с приложениями для iOS и Andr
 # НАЧНЕМ
 
 ## Blynk сервер
-Сервер Blynk - это сервер Java с открытым исходным кодом [Netty](https://github.com/netty/netty), отвечающий за пересылку
+Сервер Blynk - это Java сервер с открытым исходным кодом [Netty](https://github.com/netty/netty), отвечающий за пересылку
 данных между мобильным приложением Blynk и различными микроконтроллерами и SBC (например, Arduino, Raspberry Pi и т. д.).
 
 **Скачать последнею версию сервера [здесь](https://github.com/blynkkk/blynk-server/releases).**
