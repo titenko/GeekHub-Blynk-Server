@@ -87,8 +87,9 @@ Blynk Server successfully started.
 All server output is stored in current folder in 'logs/blynk.log' file.
 
 ### Включение почты на локальном сервере
-Чтобы включить уведомления по почте на локальном сервере, вам необходимо предоставить свои собственные учетные данные. Создайте файл ```mail.properties``` в той же папке, где``` server.jar```.
-Свойства почты:
++ Чтобы включить уведомления по почте на локальном сервере, вам необходимо предоставить свои собственные учетные данные. Создайте файл ```mail.properties``` в той же папке, где``` server.jar```.
+
++ Свойства почты:
 
 mail.smtp.auth=true
 mail.smtp.starttls.enable=true
