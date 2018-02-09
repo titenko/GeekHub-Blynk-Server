@@ -15,10 +15,10 @@ Blynk - это платформа с приложениями для iOS и Andr
 * [Blynk library](https://github.com/blynkkk/blynk-library)
 * [Kickstarter](https://www.kickstarter.com/projects/167134865/blynk-build-an-app-for-your-arduino-project-in-5-m/description)
 <hr />
-![img1] (https://github.com/GeekHubMedia/GeekHub-Blynk-Server/blob/master/img/IMG_0293.PNG)
-![img2] (https://github.com/GeekHubMedia/GeekHub-Blynk-Server/blob/master/img/IMG_0294.PNG)
-![img3] (https://github.com/GeekHubMedia/GeekHub-Blynk-Server/blob/master/img/IMG_0295.PNG)
-![img4] (https://github.com/GeekHubMedia/GeekHub-Blynk-Server/blob/master/img/IMG_0298.PNG)
+![Dashboard settings](https://github.com/blynkkk/blynk-server/blob/master/docs/overview/dash_settings.png)
+![Widgets Box](https://github.com/blynkkk/blynk-server/blob/master/docs/overview/widgets_box.png)
+![Dashboard](https://github.com/blynkkk/blynk-server/blob/master/docs/overview/dash.png)
+![Dashboard2](https://github.com/blynkkk/blynk-server/blob/master/docs/overview/dash2.png)
 <hr />
 # Содержание
 - [Скачать](#blynk-server)
