@@ -46,7 +46,7 @@ Blynk - это платформа с приложениями для iOS и Andr
 # НАЧНЕМ
 
 ## Blynk сервер
-Сервер Blynk - это сервер Java с открытым исходным кодом [Netty] (https://github.com/netty/netty), отвечающий за пересылку
+Сервер Blynk - это сервер Java с открытым исходным кодом [Netty](https://github.com/netty/netty), отвечающий за пересылку
 данных между мобильным приложением Blynk и различными микроконтроллерами и SBC (например, Arduino, Raspberry Pi и т. д.).
 
 **Скачать последнею версию сервера [здесь](https://github.com/blynkkk/blynk-server/releases).**
@@ -61,7 +61,7 @@ Blynk - это платформа с приложениями для iOS и Andr
 - Не менее 30 МБ ОЗУ (оперативной памяти) - (может быть меньше при настройке)
 - Открытые порты 9443 (для приложения), 8442 (для аппаратного обеспечения без ssl), 8441 (для аппаратного обеспечения с ssl)
 
-[Инструкция установки Ubuntu java] (# install-java-for-ubuntu).
+[Инструкция установки Ubuntu java](# install-java-for-ubuntu).
 
 Для Windows загрузите Java [здесь](http://download.oracle.com/otn-pub/java/jdk/9+181/jre-9_windows-x64_bin.exe) и установите.
 
