@@ -533,7 +533,7 @@ contact.email=test@gmail.com
 
 Это оно! Запускать сервер как обычный, а сертификаты будут генерироваться автоматически.
 
-![](Https://gifyu.com/images/certs.gif)
+![](https://gifyu.com/images/certs.gif)
 
 ### Руководство шифровки сертификатов SSL / TLS
 
