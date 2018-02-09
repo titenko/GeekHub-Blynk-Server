@@ -76,7 +76,7 @@ Output: java version "9"
 
 java -jar server-0.31.0.jar -dataFolder /path
 
-Вот и все!
+**Вот и всё!**
 
 **ПРИМЕЧАНИЕ: ```/ path``` должен быть реальным существующим путем в папку, где вы хотите хранить все свои данные.**
 
@@ -123,9 +123,9 @@ wget "https://github.com/blynkkk/blynk-server/releases/download/v0.31.0/server-0
 
 java -jar server-0.31.0-java8.jar -dataFolder /home/pi/Blynk 
 
-Вот и все!
+**Вот и всё!**
 
-В конечном результате вы увидите следующее сообщение: 
++ В конечном результате вы увидите следующее сообщение: 
 
 Blynk Server successfully started.
 All server output is stored in current folder in 'logs/blynk.log' file.
