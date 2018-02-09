@@ -260,7 +260,7 @@ kill 10539
 
 ## Расширенная настройка локального сервера
 Для большей гибкости вы можете расширить сервер с большим количеством опций, создав файл ```server.properties``` в той же папке, что и```server.jar```.
-Пример можно найти здесь (https://github.com/blynkkk/blynk-server/blob/master/server/core/src/main/resources/server.properties).
+Пример можно найти [здесь](https://github.com/blynkkk/blynk-server/blob/master/server/core/src/main/resources/server.properties).
 Вы также можете указать любой путь к файлу ```server.properties``` через аргумент командной строки``` -serverConfig```. Вы можете
 делать то же самое с ```mail.properties``` через ``` -mailConfig``` и ```sms.properties``` через``` -smsConfig```.
 
