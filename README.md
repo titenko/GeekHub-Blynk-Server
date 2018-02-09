@@ -140,11 +140,11 @@ java -jar /home/pi/server-0.31.0.jar -dataFolder /home/pi/Blynk &
 
 crontab -e
 
-добавьте следующую строку:
++ добавьте следующую строку:
 
 @reboot java -jar /home/pi/server-0.31.0.jar -dataFolder /home/pi/Blynk &
 
-Сохранить и выйти.
+**Сохранить и выйти.**
 
 ## Включение автоматического перезапуска сервера в Windows
 
