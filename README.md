@@ -42,7 +42,7 @@ Blynk - это платформа с приложениями для iOS и Andr
 - [Установка java для Ubuntu](#install-java-for-ubuntu)
 - [Как работает Blynk?](#how-blynk-works)
 - [Blynk протоколы](#blynk-protocol)
-<hr />
+
 # НАЧНЕМ
 
 ## Blynk сервер
