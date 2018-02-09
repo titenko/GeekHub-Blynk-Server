@@ -1,3 +1,7 @@
+# Установка Blynk Local Server на Raspberry Pi
+
+___
+
 **Быстрая настройка локального сервера на Raspberry Pi**
 
 Подключить Raspberry Pi через ssh;
@@ -22,7 +26,9 @@ java -jar server-0.31.0-java8.jar -dataFolder /home/pi/Blynk
 
 В конечном результате вы увидите следующее сообщение:
 
-Blynk Server successfully started. All server output is stored in current folder in 'logs/blynk.log' file.
+**Blynk Server successfully started. All server output is stored in current folder in 'logs/blynk.log' file.**
+
+___
 
 **Включение автоматического перезапуска сервера в UNIX-системах**
 
