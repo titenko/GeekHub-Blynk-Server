@@ -1,4 +1,17 @@
 ![Header](https://github.com/GeekHubMedia/GeekHub-Blynk-Server/blob/master/img/cover_14489958607-1140x570.png)
+
+____
+Перевод файла с репозитория [blynk-server](https://github.com/blynkkk/blynk-server)
+
+Автор перевода: Титенко Максим 
+
+* [Facebook](https://www.facebook.com/titenko.maksym)
+
+* [Twitter](https://twitter.com/titenko_maksym)
+
+* [GitHub](https://github.com/GeekHubMedia)
+____
+
 # Blynk Local Server
 Платформа с приложением для iOS и Android для управления Arduino, ESP8266, Raspberry Pi и других плат микроконтроллеров через Интернет.
 
